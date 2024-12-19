@@ -18,7 +18,7 @@ This repository contains  Common features implementation purely on php without l
 Here's a breakdown of the key features included in this project:
 
 *   **SMS Gateway API with Provider:** Integration with PHILSMS for sending SMS messages. This allows you to send emails very cheap price <strong>without any minimum limits!</strong>
-*   **EMAIL-MAILTO:** Provides functionality for sending emails, with an initial free allowance of 100 emails. This is useful for [explain the use cases, e.g., notifications, confirmations, etc.].
+*   **EMAIL-MAILTO:** Provides functionality for sending emails, with an initial free allowance of 100 emails.
 
 ## Getting Started 🚀
 
@@ -35,9 +35,12 @@ To get started with this project, follow these steps:
     **[For PHILSMS]**
     *   Example: Set your PHILSMS API key in the $token variable.
     *   The ang PHP code is copy lang ninyo
+    *   Ang site ani kay https://philsms.com/
 
     **[For mailto]**
     *   Example: Set your MAILTO in token API key in the $token variable.
+    *   Copy lang ang php code
+    *   Ang site ani kay https://mailtrap.io/
 
 
 
