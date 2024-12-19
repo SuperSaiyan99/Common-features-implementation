@@ -1,9 +1,3 @@
-# Common features implementation
- Common features implementation purely on php without libraries
-
-
-# Common features implementation for beginner friendly API calls
-
 <p align="center">
   <img src="4.png" alt="Project Logo" width="200"> <br>
   (Optional: Add a small tagline or brief description here)
@@ -31,58 +25,24 @@ Here's a breakdown of the key features included in this project:
 
 To get started with this project, follow these steps:
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
 
     ```bash
     git clone [https://github.com/SuperSaiyan99/Common-features-implementation.git](https://github.com/SuperSaiyan99/Common-features-implementation.git)
     ```
 
-2.  **Installation (if applicable):**
+2. **Configuration :**
 
-    ```bash
-    # Example:
-    npm install
-    # or
-    pip install -r requirements.txt
-    ```
+    **[For PHILSMS]**
+    *   Example: Set your PHILSMS API key in the $token variable.
+    *   The ang PHP code is copy lang ninyo
 
-3.  **Configuration (if necessary):**
+    **[For mailto]**
+    *   Example: Set your MAILTO in token API key in the $token variable.
 
-    *   [Explain any necessary configuration steps, such as setting environment variables, API keys, etc. Provide code examples or instructions.]
-    *   Example: Set your PHILSMS API key in the `.env` file.
 
-4.  **Usage:**
-
-    ```bash
-    # Provide example usage commands or code snippets
-    # Example:
-    node index.js
-    ```
-
-## Documentation 📖
-
-For more detailed information and usage examples, please refer to the [documentation](link-to-documentation-if-available).
-
-## Contributing 🤝
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them.
-4.  Submit a pull request.
-
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Contact 📧
-
-If you have any questions or feedback, feel free to contact me at [your-email@example.com].
-
----
 
 <p align="center">
-  Made with ❤️ by [Your Name/Organization]
+  Made with ❤️ by [Joana]
 </p>
 
