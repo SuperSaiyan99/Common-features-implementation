@@ -1,6 +1,5 @@
 <p align="center">
   <img src="4.png" alt="Project Logo" width="200"> <br>
-  (Optional: Add a small tagline or brief description here)
 </p>
 
 <p align="center">
